@@ -2,7 +2,6 @@
   "name": "web-photo-filter-react",
   "sideEffects": false,
   "version": "1.0.0",
-  "private": true,
   "description": "React specific wrapper for web-photo-filter",
   "repository": {
     "type": "git",
@@ -19,7 +18,9 @@
   "module": "./dist/index.es.js",
   "types": "./dist/index.d.ts",
   "files": [
-    "dist/"
+    "dist/",
+    "README.md",
+    "LICENSE"
   ],
   "devDependencies": {
     "@types/node": "14.14.16",
