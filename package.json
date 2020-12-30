@@ -1,7 +1,7 @@
 {
   "name": "web-photo-filter-react",
   "sideEffects": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React specific wrapper for web-photo-filter",
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "web-photo-filter": "^3.0.0"
+    "web-photo-filter": "^3.1.0"
   },
   "peerDependencies": {
     "react": "^17.0.1",
